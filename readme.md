@@ -25,7 +25,7 @@ I am a student at KCA University interested in technology, web development and c
 - Contact form
 
 ## Author
-Your Name
+Adnan Abdinassir
 
 ## Purpose
 This project demonstrates my understanding of HTML, CSS and web development.
